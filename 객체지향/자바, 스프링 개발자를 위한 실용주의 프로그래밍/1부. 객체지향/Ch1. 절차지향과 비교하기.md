@@ -28,15 +28,17 @@ int main() {
 	- ex) java
 
 #### ⚠️ 주의
-초급 자바 개발자들은 레이어드 아키텍처를 도입하며 2가지 실수를 범한다
-1. 전능한 서비스 작성 
-	- https://github.com/jamm0316/DaengDong/blob/main/src/main/java/com/shinhan/daengdong/member/model/service/MemberServiceImpl.java)
+> [!WARNING]
+> 초급 자바 개발자들은 레이어드 아키텍처를 도입하며 2가지 실수를 범한다
+> 1. 전능한 서비스 작성 
+> 	- https://github.com/jamm0316/DaengDong/blob/main/src/main/java/com/shinhan/daengdong/member/model/service/MemberServiceImpl.java)
+> 
+> 2. 클래스는 데이터 저장용도로만 사용
+> 	- https://github.com/jamm0316/DaengDong/blob/main/src/main/java/com/shinhan/daengdong/member/dto/MemberDTO.java
 
-2. 클래스는 데이터 저장용도로만 사용
-	- https://github.com/jamm0316/DaengDong/blob/main/src/main/java/com/shinhan/daengdong/member/dto/MemberDTO.java
+이는 절차 지향적 코드이며 객체지향 패러다임이 아니다.
 
-> 이는 절차 지향적 코드이며 객체지향 패러다임이 아니다.
-
+> [!IMPORTANT] 
 > 객체지향의 핵심
 > - 객체에 어떤 메시지를 전달할 수 있다.
 > - 객체가 어떤 책임을 진다.
