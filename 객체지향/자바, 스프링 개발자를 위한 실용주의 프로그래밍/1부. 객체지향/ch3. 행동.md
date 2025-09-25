@@ -1,5 +1,5 @@
 > [!important]
-> [[ch.1 절차지향과 비교하기#1.2 TDA 원칙]] 은 객체를 행동하게 만든다.
+> [[ch.1 절차지향과 비교하기#1.2 TDA 원칙](https://github.com/jamm0316/reading-books-for-programmers/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EC%9E%90%EB%B0%94%2C%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%B6%80.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/Ch1.%20%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md#12-tda-%EC%9B%90%EC%B9%99)] 은 객체를 행동하게 만든다.
 
 만약 자동차를 만들어달라는 요구를 받으면 2가지 방법으로 개발하는 개발자가 있다.
 1. 필요한 속성을 먼저 떠올리는 개발자
